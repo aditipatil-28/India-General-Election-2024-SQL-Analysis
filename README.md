@@ -39,6 +39,10 @@ Analyzed constituency-wise, party-wise, and state-wise election data to understa
 - Analyzed EVM vs Postal vote trends and margin analysis across states
 - Created ERD diagram showing table relationships via primary/foreign keys
 
+### ERD Diagram
+
+![image alt](https://github.com/aditipatil-28/India-General-Election-2024-SQL-Analysis/blob/a7431dad53a98d67cc13603d135d006d14485240/ERD%20Diagram.png)
+
 ### How to Run
 
 1. Create Database
